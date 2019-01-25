@@ -1,0 +1,36 @@
+"""
+This program will complete 3 things:
+1. Take a users name and output the reverse of the name.
+2. Take numbers from a user and output arithmetic operations on it.
+3. Take a sentence and prints the number of letters and digits in the sentence.
+"""
+
+# Gather user name information
+firstName = input("What is your first name: ")
+lastName = input("What is your last name: ")
+
+# Reverse name using string manipulation
+firstName = firstName[::-1]
+lastName = lastName[::-1]
+
+# Print user name reversed
+print("Your name reversed is: " + firstName + " " + lastName)
+
+# Gather numbers from user
+numberOne, numberTwo = input("\nPlease enter 2 numbers with a space in between the numbers: ").split()
+
+# Print arithmetic operations of the user input
+print(numberOne + " + " + numberTwo + " = " + str(int(numberOne) + int(numberTwo)))
+print(numberOne + " - " + numberTwo + " = " + str(int(numberOne) - int(numberTwo)))
+print(numberOne + " * " + numberTwo + " = " + str(int(numberOne) * int(numberTwo)))
+print(numberOne + " / " + numberTwo + " = " + str(int(numberOne) / int(numberTwo)))
+
+# Gather sentence from the user
+sentence = input("\nEnter a sentence: ")
+
+# Calculate the number of letters and digits in the user provided sentence
+numOfLetters = sum(character.isalpha() for character in sentence)
+numOfDigits = sum(digit.isdigit() for digit in sentence)
+
+# Print the number of number of letters and digits in the user provided sentence
+print("Letters: " + str(numOfLetters) + " Digits: " + str(numOfDigits))
