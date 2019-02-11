@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d3c9219-3f77-454c-95bb-1e5d84fff8dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ICP_2/icp2.py" afterDir="false" />
-    </list>
+    <list default="true" id="7d3c9219-3f77-454c-95bb-1e5d84fff8dc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,14 +10,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ICP_2/icp2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="-564">
               <caret column="3" selection-start-column="3" selection-end-column="3" />
               <folding>
                 <element signature="e#259#288#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ICP_3/icp3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="591">
+              <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
             </state>
           </provider>
         </entry>
@@ -33,10 +40,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ICP_2/icp2.py" />
+        <option value="$PROJECT_DIR$/ICP_3/icp3.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="20" />
     <option name="y" value="43" />
     <option name="width" value="1400" />
@@ -54,11 +62,6 @@
             <path>
               <item name="CSEE5590_ICP" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSEE5590_ICP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CSEE5590_ICP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSEE5590_ICP" type="462c0819:PsiDirectoryNode" />
-              <item name="ICP_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -84,6 +87,9 @@
       </list>
     </option>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7d3c9219-3f77-454c-95bb-1e5d84fff8dc" name="Default Changelist" comment="" />
@@ -91,12 +97,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549063538498</updated>
-      <workItem from="1549063540018" duration="26000" />
+      <workItem from="1549063540018" duration="980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26000" />
+    <option name="totallyTimeSpent" value="980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="760" extended-state="0" />
@@ -105,6 +111,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -124,14 +131,24 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ICP_2/icp2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-564">
           <caret column="3" selection-start-column="3" selection-end-column="3" />
           <folding>
             <element signature="e#259#288#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP_3/icp3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
         </state>
       </provider>
     </entry>
