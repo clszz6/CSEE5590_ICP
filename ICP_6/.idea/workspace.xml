@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ceafa3a5-9660-4b00-b322-db09661425c1" name="Default Changelist" comment="">
+    <list default="true" id="51e8574a-bdf4-4411-a2a0-f3db427263cd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ICP_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP_4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP_5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP_5/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +14,12 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/icp5.py">
+        <entry file="file://$PROJECT_DIR$/icp6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="591">
+              <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
               <folding>
-                <element signature="e#532#551#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -33,7 +33,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/icp5.py" />
+        <option value="$PROJECT_DIR$/icp6.py" />
       </list>
     </option>
   </component>
@@ -53,8 +53,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="ICP_5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ICP_5" type="462c0819:PsiDirectoryNode" />
+              <item name="ICP_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ICP_6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -87,17 +87,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ceafa3a5-9660-4b00-b322-db09661425c1" name="Default Changelist" comment="" />
-      <created>1550894616744</created>
+      <changelist id="51e8574a-bdf4-4411-a2a0-f3db427263cd" name="Default Changelist" comment="" />
+      <created>1551485286614</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550894616744</updated>
-      <workItem from="1550894618031" duration="282000" />
+      <updated>1551485286614</updated>
+      <workItem from="1551485289181" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="282000" />
+    <option name="totallyTimeSpent" value="23000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="760" extended-state="0" />
@@ -130,12 +130,12 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/icp5.py">
+    <entry file="file://$PROJECT_DIR$/icp6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="591">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
           <folding>
-            <element signature="e#532#551#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
